@@ -1,2 +1,2 @@
 # leet-code-solutions
-Here I pose my LeetCode solutions
+Here I post my LeetCode solutions
